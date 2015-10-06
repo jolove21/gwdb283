@@ -1,2 +1,2 @@
-# gwdb283
+# Advanced Web Design
 Week 1
